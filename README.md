@@ -2,5 +2,5 @@
 
 Hi!  I m Sarthak
 
-I like to code and contribute on open source projects...and want to learn more and more.
-I like to travel and explore the world .
+I like to code in python3 and contribute to an open source projects...and want to learn more and more.
+
